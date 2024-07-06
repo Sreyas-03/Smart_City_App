@@ -1,4 +1,4 @@
-# DASS Project - Smart City Living Lab
+# Smart City Living Lab
 A configurable web app to help users view useful sensor data on the IIIT campus.
 
 ## Setup
